@@ -70,13 +70,13 @@ img {
   border-radius: 3px;
   cursor:pointer;
 }
-button.restar {
+button.substract {
   background-color: orangered;
 }
 button.reset {
   background-color: var(--white);
   color: var(--black);
 }
-button.sumar {
+button.add {
   background-color: lime;
 }
